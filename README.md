@@ -1,6 +1,6 @@
 # GoIgnite
 
-GoIgnite is a lightweight Golang web framework inspired by PHP's Laravel 8, designed for building APIs and web applications efficiently. It offers a structured way to develop web applications with a clear separation of concerns, including MVC architecture, templating engines, and built-in support for API creation.
+GoIgnite is a lightweight Golang web framework inspired by PHP's Laravel Framework, designed for building APIs and web applications efficiently. It offers a structured way to develop web applications with a clear separation of concerns, including MVC architecture, templating engines, and built-in support for API creation.
 
 ## Features
 
